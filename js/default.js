@@ -1,4 +1,2 @@
-/* ダイアログを表示 */
-window.alert('こんにちは世界！');
-// コンソールに表示
-console.log('こんにちは世界！');
+// 日時を表示
+console.log(document.getElementById('choice'));
